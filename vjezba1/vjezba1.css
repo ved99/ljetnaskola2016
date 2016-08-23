@@ -1,0 +1,35 @@
+body{
+	background-color:antiquewhite;
+}
+h1
+{color:red
+font-size: 20px;
+font-style:italic;
+font-weight:bold;
+font-variant:normal;
+font-family: Verdena, sans-serif;
+border-bottom-width:medium;
+background-color: white;
+text-align:center;
+
+}
+p1
+{color:blue;
+font-style:italic;
+font-weight:bold;
+font-variant:normal;
+font-family: Verdena, sans-serif;
+border-bottom-width:medium;
+background-color: whitte;
+}
+p2
+{color:blue;}
+p3
+{color: white;}
+div{
+	background-color:white;
+	
+}
+//komentar
+
+
